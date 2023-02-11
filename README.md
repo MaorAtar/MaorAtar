@@ -33,9 +33,6 @@ Algorithms, Statistics and Probability, Advanced Object Oriented Programming, Te
 - ❓ Ask me about anything, I am happy to help  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-  
-
 - 📧 Contact me: [maoratar17@gmail.com](http://maoratar17@gmail.com)  
 
 
