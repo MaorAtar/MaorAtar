@@ -24,10 +24,6 @@ As a software engineer student I enjoy using my obsessive attention to detail, o
 <br/>  
 
 <table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning:
-Algorithms, Statistics and Probability, Advanced Object Oriented Programming, Testing and Quality in Software Engineering, Requirements Engineering and Software Analysis 
-  
   
 
 - ❓ Ask me about anything, I am happy to help  
