@@ -17,7 +17,7 @@
 
 
 ### About me  
-I’m a second year software engineer student at Sami Shamoon College of Engenering - SCE 👨‍🎓
+I’m a third year software engineer student at Sami Shamoon College of Engineering - SCE 👨‍🎓
 As a software engineer student I enjoy using my obsessive attention to detail, order and organization 🕵️‍♂️  
   
 
