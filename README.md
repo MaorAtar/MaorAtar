@@ -17,7 +17,7 @@
 
 
 ### About me  
-As a software engineer student I enjoy using my obsessive attention to detail, order and organization 🕵️‍♂️  
+As a software engineer I enjoy using my obsessive attention to detail, order and organization 🕵️‍♂️  
   
 
 <br/>  
