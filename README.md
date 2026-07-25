@@ -35,7 +35,6 @@ As a software engineer I enjoy using my obsessive attention to detail, order and
 
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4795c605uizzj96lw8026kt47cxmg5w0fpwkc23z72&rid=giphy.gif&ct=g" align="left" style="width: 100%" />  
 
-
 </td></tr></table>  
 
 <br/>  
@@ -57,16 +56,3 @@ As a software engineer I enjoy using my obsessive attention to detail, order and
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MaorAtar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaorAtar&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
